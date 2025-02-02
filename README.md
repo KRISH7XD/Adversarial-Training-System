@@ -2,23 +2,39 @@
 Adversarial Training System
 
 🔒 Making AI Models Resilient Against Adversarial Attacks
+
 📌 Overview
+
 The Adversarial Training System is an innovative solution designed to strengthen AI models against adversarial attacks like FGM, PGD, CarliniL2, and DeepFool. These attacks exploit AI model vulnerabilities, leading to incorrect predictions and security risks. Our system enhances model robustness by retraining it with adversarial examples, making it more secure and reliable.
 
 🚀 Features
+
 ✔ Automatic Model Security Enhancement – Upload a model, and the system will generate a more secure version.
+
 ✔ Supports Multiple Attack Types – Detects and protects against various adversarial attacks.
+
 ✔ Customizable Security Levels – Choose from different security levels (Fast, Low, Medium, High).
+
 ✔ Intuitive UI – A Streamlit-based interface for seamless interaction.
+
 ✔ Performance Visualization – Graphs showing accuracy and loss trends before and after training.
 
+
 🛠Tech Stack
+
 Programming Language: Python
+
 Framework: Streamlit
+
 Deep Learning: PyTorch
+
 Adversarial AI: Adversarial Robustness Toolbox (ART)
+
 Data Handling: NumPy, Pandas
+
 Visualization: Matplotlib
+
+
 
 📂 Project Structure
 
