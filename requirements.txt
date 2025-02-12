@@ -1,0 +1,7 @@
+torch==2.0.1
+torchvision==0.15.2
+numpy==1.23.5
+pandas==1.5.3
+streamlit==1.25.0
+matplotlib==3.7.2
+adversarial-robustness-toolbox==1.14.1
